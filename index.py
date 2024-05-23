@@ -1,2 +1,0 @@
-t = 'Tejas'
-print(t)
